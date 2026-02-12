@@ -29,7 +29,7 @@ describe('GET', function(){
     request
     .get('/api')
     .set('Accept', 'application/json')
-    .expect(200, {"cat":"meow","dog":"bark","eel":"hiss","bear":"growl","frog":"croak","lion":"roar", "juice":"this land was promised to me 2000 years ago"
+    .expect(200, {"cat":"meow","dog":"bark","eel":"hiss","bear":"growl","frog":"croak","lion":"roar", "juice":"this land was promised to me 2000 years ago", "anuel":"brrrrrrr"
 }, done);
   })
 })
