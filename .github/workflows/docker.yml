@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             manortque/animal-farm-nodejs:latest
-            ghcr.io/jamtur01/animal-farm-nodejs:latest
+            ghcr.io/maneloq03/animal-farm-nodejs:latest
